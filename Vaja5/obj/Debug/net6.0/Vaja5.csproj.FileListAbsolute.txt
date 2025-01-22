@@ -1,0 +1,15 @@
+C:\Users\student\Downloads\Vaje\Vaja5\bin\Debug\net6.0\Vaja5.exe
+C:\Users\student\Downloads\Vaje\Vaja5\bin\Debug\net6.0\Vaja5.deps.json
+C:\Users\student\Downloads\Vaje\Vaja5\bin\Debug\net6.0\Vaja5.runtimeconfig.json
+C:\Users\student\Downloads\Vaje\Vaja5\bin\Debug\net6.0\Vaja5.dll
+C:\Users\student\Downloads\Vaje\Vaja5\bin\Debug\net6.0\Vaja5.pdb
+C:\Users\student\Downloads\Vaje\Vaja5\obj\Debug\net6.0\Vaja5.csproj.AssemblyReference.cache
+C:\Users\student\Downloads\Vaje\Vaja5\obj\Debug\net6.0\Vaja5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Downloads\Vaje\Vaja5\obj\Debug\net6.0\Vaja5.AssemblyInfoInputs.cache
+C:\Users\student\Downloads\Vaje\Vaja5\obj\Debug\net6.0\Vaja5.AssemblyInfo.cs
+C:\Users\student\Downloads\Vaje\Vaja5\obj\Debug\net6.0\Vaja5.csproj.CoreCompileInputs.cache
+C:\Users\student\Downloads\Vaje\Vaja5\obj\Debug\net6.0\Vaja5.dll
+C:\Users\student\Downloads\Vaje\Vaja5\obj\Debug\net6.0\refint\Vaja5.dll
+C:\Users\student\Downloads\Vaje\Vaja5\obj\Debug\net6.0\Vaja5.pdb
+C:\Users\student\Downloads\Vaje\Vaja5\obj\Debug\net6.0\Vaja5.genruntimeconfig.cache
+C:\Users\student\Downloads\Vaje\Vaja5\obj\Debug\net6.0\ref\Vaja5.dll

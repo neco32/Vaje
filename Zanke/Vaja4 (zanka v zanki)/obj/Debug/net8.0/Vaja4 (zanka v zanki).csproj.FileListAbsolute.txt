@@ -1,0 +1,15 @@
+C:\Users\student\Downloads\Vaje\Zanke\Vaja4 (zanka v zanki)\bin\Debug\net8.0\Vaja4 (zanka v zanki).exe
+C:\Users\student\Downloads\Vaje\Zanke\Vaja4 (zanka v zanki)\bin\Debug\net8.0\Vaja4 (zanka v zanki).deps.json
+C:\Users\student\Downloads\Vaje\Zanke\Vaja4 (zanka v zanki)\bin\Debug\net8.0\Vaja4 (zanka v zanki).runtimeconfig.json
+C:\Users\student\Downloads\Vaje\Zanke\Vaja4 (zanka v zanki)\bin\Debug\net8.0\Vaja4 (zanka v zanki).dll
+C:\Users\student\Downloads\Vaje\Zanke\Vaja4 (zanka v zanki)\bin\Debug\net8.0\Vaja4 (zanka v zanki).pdb
+C:\Users\student\Downloads\Vaje\Zanke\Vaja4 (zanka v zanki)\obj\Debug\net8.0\Vaja4 (zanka v zanki).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Downloads\Vaje\Zanke\Vaja4 (zanka v zanki)\obj\Debug\net8.0\Vaja4 (zanka v zanki).AssemblyInfoInputs.cache
+C:\Users\student\Downloads\Vaje\Zanke\Vaja4 (zanka v zanki)\obj\Debug\net8.0\Vaja4 (zanka v zanki).AssemblyInfo.cs
+C:\Users\student\Downloads\Vaje\Zanke\Vaja4 (zanka v zanki)\obj\Debug\net8.0\Vaja4 (zanka v zanki).csproj.CoreCompileInputs.cache
+C:\Users\student\Downloads\Vaje\Zanke\Vaja4 (zanka v zanki)\obj\Debug\net8.0\Vaja4 (zanka v zanki).sourcelink.json
+C:\Users\student\Downloads\Vaje\Zanke\Vaja4 (zanka v zanki)\obj\Debug\net8.0\Vaja4 (zanka v zanki).dll
+C:\Users\student\Downloads\Vaje\Zanke\Vaja4 (zanka v zanki)\obj\Debug\net8.0\refint\Vaja4 (zanka v zanki).dll
+C:\Users\student\Downloads\Vaje\Zanke\Vaja4 (zanka v zanki)\obj\Debug\net8.0\Vaja4 (zanka v zanki).pdb
+C:\Users\student\Downloads\Vaje\Zanke\Vaja4 (zanka v zanki)\obj\Debug\net8.0\Vaja4 (zanka v zanki).genruntimeconfig.cache
+C:\Users\student\Downloads\Vaje\Zanke\Vaja4 (zanka v zanki)\obj\Debug\net8.0\ref\Vaja4 (zanka v zanki).dll

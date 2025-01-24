@@ -1,0 +1,15 @@
+C:\Users\student\Downloads\Vaje\Orodja\Vaja Random\bin\Debug\net8.0\Vaja Random.exe
+C:\Users\student\Downloads\Vaje\Orodja\Vaja Random\bin\Debug\net8.0\Vaja Random.deps.json
+C:\Users\student\Downloads\Vaje\Orodja\Vaja Random\bin\Debug\net8.0\Vaja Random.runtimeconfig.json
+C:\Users\student\Downloads\Vaje\Orodja\Vaja Random\bin\Debug\net8.0\Vaja Random.dll
+C:\Users\student\Downloads\Vaje\Orodja\Vaja Random\bin\Debug\net8.0\Vaja Random.pdb
+C:\Users\student\Downloads\Vaje\Orodja\Vaja Random\obj\Debug\net8.0\Vaja Random.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Downloads\Vaje\Orodja\Vaja Random\obj\Debug\net8.0\Vaja Random.AssemblyInfoInputs.cache
+C:\Users\student\Downloads\Vaje\Orodja\Vaja Random\obj\Debug\net8.0\Vaja Random.AssemblyInfo.cs
+C:\Users\student\Downloads\Vaje\Orodja\Vaja Random\obj\Debug\net8.0\Vaja Random.csproj.CoreCompileInputs.cache
+C:\Users\student\Downloads\Vaje\Orodja\Vaja Random\obj\Debug\net8.0\Vaja Random.sourcelink.json
+C:\Users\student\Downloads\Vaje\Orodja\Vaja Random\obj\Debug\net8.0\Vaja Random.dll
+C:\Users\student\Downloads\Vaje\Orodja\Vaja Random\obj\Debug\net8.0\refint\Vaja Random.dll
+C:\Users\student\Downloads\Vaje\Orodja\Vaja Random\obj\Debug\net8.0\Vaja Random.pdb
+C:\Users\student\Downloads\Vaje\Orodja\Vaja Random\obj\Debug\net8.0\Vaja Random.genruntimeconfig.cache
+C:\Users\student\Downloads\Vaje\Orodja\Vaja Random\obj\Debug\net8.0\ref\Vaja Random.dll

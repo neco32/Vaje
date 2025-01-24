@@ -1,0 +1,15 @@
+C:\Users\student\Downloads\Vaje\Zanke\Vaja2\bin\Debug\net8.0\Vaja2.exe
+C:\Users\student\Downloads\Vaje\Zanke\Vaja2\bin\Debug\net8.0\Vaja2.deps.json
+C:\Users\student\Downloads\Vaje\Zanke\Vaja2\bin\Debug\net8.0\Vaja2.runtimeconfig.json
+C:\Users\student\Downloads\Vaje\Zanke\Vaja2\bin\Debug\net8.0\Vaja2.dll
+C:\Users\student\Downloads\Vaje\Zanke\Vaja2\bin\Debug\net8.0\Vaja2.pdb
+C:\Users\student\Downloads\Vaje\Zanke\Vaja2\obj\Debug\net8.0\Vaja2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Downloads\Vaje\Zanke\Vaja2\obj\Debug\net8.0\Vaja2.AssemblyInfoInputs.cache
+C:\Users\student\Downloads\Vaje\Zanke\Vaja2\obj\Debug\net8.0\Vaja2.AssemblyInfo.cs
+C:\Users\student\Downloads\Vaje\Zanke\Vaja2\obj\Debug\net8.0\Vaja2.csproj.CoreCompileInputs.cache
+C:\Users\student\Downloads\Vaje\Zanke\Vaja2\obj\Debug\net8.0\Vaja2.sourcelink.json
+C:\Users\student\Downloads\Vaje\Zanke\Vaja2\obj\Debug\net8.0\Vaja2.dll
+C:\Users\student\Downloads\Vaje\Zanke\Vaja2\obj\Debug\net8.0\refint\Vaja2.dll
+C:\Users\student\Downloads\Vaje\Zanke\Vaja2\obj\Debug\net8.0\Vaja2.pdb
+C:\Users\student\Downloads\Vaje\Zanke\Vaja2\obj\Debug\net8.0\Vaja2.genruntimeconfig.cache
+C:\Users\student\Downloads\Vaje\Zanke\Vaja2\obj\Debug\net8.0\ref\Vaja2.dll

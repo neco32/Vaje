@@ -1,0 +1,9 @@
+Napišite novo konzolno aplikacijo s katero boste simulirali stave na ruleti,
+Testirali boste preprost sistem, ki zagotavlja zmago na ruleti. Zaradi
+enostavnosti bomo stavili samo na rdeča polja.
+Ruleta ima 36 števil od 1 do 36 in število 0. Predpostavimo, da so rdeča polja
+soda števila. Poenostavimo igro še tako, da imamo natanko določeno število
+metov (npr. 10, kasneje boste to število večali).
+Sistem, ki ga bomo testirali je sledeč: igrate z neko začetno količino denarja.
+V prvi igri se odločimo za znesek stave, nato pa igramo tako, da ohranimo isti
+znesek, če smo stavo dobili in dvojni znesek, če smo stavo izgublili.

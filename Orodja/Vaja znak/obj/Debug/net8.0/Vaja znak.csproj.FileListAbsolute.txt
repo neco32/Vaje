@@ -1,0 +1,15 @@
+C:\Users\student\Downloads\Vaje\Orodja\Vaja znak\bin\Debug\net8.0\Vaja znak.exe
+C:\Users\student\Downloads\Vaje\Orodja\Vaja znak\bin\Debug\net8.0\Vaja znak.deps.json
+C:\Users\student\Downloads\Vaje\Orodja\Vaja znak\bin\Debug\net8.0\Vaja znak.runtimeconfig.json
+C:\Users\student\Downloads\Vaje\Orodja\Vaja znak\bin\Debug\net8.0\Vaja znak.dll
+C:\Users\student\Downloads\Vaje\Orodja\Vaja znak\bin\Debug\net8.0\Vaja znak.pdb
+C:\Users\student\Downloads\Vaje\Orodja\Vaja znak\obj\Debug\net8.0\Vaja znak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Downloads\Vaje\Orodja\Vaja znak\obj\Debug\net8.0\Vaja znak.AssemblyInfoInputs.cache
+C:\Users\student\Downloads\Vaje\Orodja\Vaja znak\obj\Debug\net8.0\Vaja znak.AssemblyInfo.cs
+C:\Users\student\Downloads\Vaje\Orodja\Vaja znak\obj\Debug\net8.0\Vaja znak.csproj.CoreCompileInputs.cache
+C:\Users\student\Downloads\Vaje\Orodja\Vaja znak\obj\Debug\net8.0\Vaja znak.sourcelink.json
+C:\Users\student\Downloads\Vaje\Orodja\Vaja znak\obj\Debug\net8.0\Vaja znak.dll
+C:\Users\student\Downloads\Vaje\Orodja\Vaja znak\obj\Debug\net8.0\refint\Vaja znak.dll
+C:\Users\student\Downloads\Vaje\Orodja\Vaja znak\obj\Debug\net8.0\Vaja znak.pdb
+C:\Users\student\Downloads\Vaje\Orodja\Vaja znak\obj\Debug\net8.0\Vaja znak.genruntimeconfig.cache
+C:\Users\student\Downloads\Vaje\Orodja\Vaja znak\obj\Debug\net8.0\ref\Vaja znak.dll

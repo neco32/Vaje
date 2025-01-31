@@ -1,0 +1,15 @@
+C:\Users\student\Downloads\Vaje\Vaje\Vaja9\bin\Debug\net8.0\Vaja9.exe
+C:\Users\student\Downloads\Vaje\Vaje\Vaja9\bin\Debug\net8.0\Vaja9.deps.json
+C:\Users\student\Downloads\Vaje\Vaje\Vaja9\bin\Debug\net8.0\Vaja9.runtimeconfig.json
+C:\Users\student\Downloads\Vaje\Vaje\Vaja9\bin\Debug\net8.0\Vaja9.dll
+C:\Users\student\Downloads\Vaje\Vaje\Vaja9\bin\Debug\net8.0\Vaja9.pdb
+C:\Users\student\Downloads\Vaje\Vaje\Vaja9\obj\Debug\net8.0\Vaja9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Downloads\Vaje\Vaje\Vaja9\obj\Debug\net8.0\Vaja9.AssemblyInfoInputs.cache
+C:\Users\student\Downloads\Vaje\Vaje\Vaja9\obj\Debug\net8.0\Vaja9.AssemblyInfo.cs
+C:\Users\student\Downloads\Vaje\Vaje\Vaja9\obj\Debug\net8.0\Vaja9.csproj.CoreCompileInputs.cache
+C:\Users\student\Downloads\Vaje\Vaje\Vaja9\obj\Debug\net8.0\Vaja9.sourcelink.json
+C:\Users\student\Downloads\Vaje\Vaje\Vaja9\obj\Debug\net8.0\Vaja9.dll
+C:\Users\student\Downloads\Vaje\Vaje\Vaja9\obj\Debug\net8.0\refint\Vaja9.dll
+C:\Users\student\Downloads\Vaje\Vaje\Vaja9\obj\Debug\net8.0\Vaja9.pdb
+C:\Users\student\Downloads\Vaje\Vaje\Vaja9\obj\Debug\net8.0\Vaja9.genruntimeconfig.cache
+C:\Users\student\Downloads\Vaje\Vaje\Vaja9\obj\Debug\net8.0\ref\Vaja9.dll

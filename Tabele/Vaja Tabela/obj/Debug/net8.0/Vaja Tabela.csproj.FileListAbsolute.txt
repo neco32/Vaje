@@ -1,0 +1,15 @@
+C:\Users\student\Downloads\Vaje\Tabele\Vaja Tabela\obj\Debug\net8.0\Vaja Tabela.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Downloads\Vaje\Tabele\Vaja Tabela\obj\Debug\net8.0\Vaja Tabela.AssemblyInfoInputs.cache
+C:\Users\student\Downloads\Vaje\Tabele\Vaja Tabela\obj\Debug\net8.0\Vaja Tabela.AssemblyInfo.cs
+C:\Users\student\Downloads\Vaje\Tabele\Vaja Tabela\obj\Debug\net8.0\Vaja Tabela.csproj.CoreCompileInputs.cache
+C:\Users\student\Downloads\Vaje\Tabele\Vaja Tabela\obj\Debug\net8.0\Vaja Tabela.sourcelink.json
+C:\Users\student\Downloads\Vaje\Tabele\Vaja Tabela\bin\Debug\net8.0\Vaja Tabela.exe
+C:\Users\student\Downloads\Vaje\Tabele\Vaja Tabela\bin\Debug\net8.0\Vaja Tabela.deps.json
+C:\Users\student\Downloads\Vaje\Tabele\Vaja Tabela\bin\Debug\net8.0\Vaja Tabela.runtimeconfig.json
+C:\Users\student\Downloads\Vaje\Tabele\Vaja Tabela\bin\Debug\net8.0\Vaja Tabela.dll
+C:\Users\student\Downloads\Vaje\Tabele\Vaja Tabela\bin\Debug\net8.0\Vaja Tabela.pdb
+C:\Users\student\Downloads\Vaje\Tabele\Vaja Tabela\obj\Debug\net8.0\Vaja Tabela.dll
+C:\Users\student\Downloads\Vaje\Tabele\Vaja Tabela\obj\Debug\net8.0\refint\Vaja Tabela.dll
+C:\Users\student\Downloads\Vaje\Tabele\Vaja Tabela\obj\Debug\net8.0\Vaja Tabela.pdb
+C:\Users\student\Downloads\Vaje\Tabele\Vaja Tabela\obj\Debug\net8.0\Vaja Tabela.genruntimeconfig.cache
+C:\Users\student\Downloads\Vaje\Tabele\Vaja Tabela\obj\Debug\net8.0\ref\Vaja Tabela.dll

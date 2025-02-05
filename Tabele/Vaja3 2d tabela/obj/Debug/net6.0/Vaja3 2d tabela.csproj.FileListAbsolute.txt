@@ -1,0 +1,15 @@
+C:\Users\student\Downloads\Vaje\Tabele\Vaja3 2d tabela\bin\Debug\net6.0\Vaja3 2d tabela.exe
+C:\Users\student\Downloads\Vaje\Tabele\Vaja3 2d tabela\bin\Debug\net6.0\Vaja3 2d tabela.deps.json
+C:\Users\student\Downloads\Vaje\Tabele\Vaja3 2d tabela\bin\Debug\net6.0\Vaja3 2d tabela.runtimeconfig.json
+C:\Users\student\Downloads\Vaje\Tabele\Vaja3 2d tabela\bin\Debug\net6.0\Vaja3 2d tabela.dll
+C:\Users\student\Downloads\Vaje\Tabele\Vaja3 2d tabela\bin\Debug\net6.0\Vaja3 2d tabela.pdb
+C:\Users\student\Downloads\Vaje\Tabele\Vaja3 2d tabela\obj\Debug\net6.0\Vaja3 2d tabela.csproj.AssemblyReference.cache
+C:\Users\student\Downloads\Vaje\Tabele\Vaja3 2d tabela\obj\Debug\net6.0\Vaja3 2d tabela.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Downloads\Vaje\Tabele\Vaja3 2d tabela\obj\Debug\net6.0\Vaja3 2d tabela.AssemblyInfoInputs.cache
+C:\Users\student\Downloads\Vaje\Tabele\Vaja3 2d tabela\obj\Debug\net6.0\Vaja3 2d tabela.AssemblyInfo.cs
+C:\Users\student\Downloads\Vaje\Tabele\Vaja3 2d tabela\obj\Debug\net6.0\Vaja3 2d tabela.csproj.CoreCompileInputs.cache
+C:\Users\student\Downloads\Vaje\Tabele\Vaja3 2d tabela\obj\Debug\net6.0\Vaja3 2d tabela.dll
+C:\Users\student\Downloads\Vaje\Tabele\Vaja3 2d tabela\obj\Debug\net6.0\refint\Vaja3 2d tabela.dll
+C:\Users\student\Downloads\Vaje\Tabele\Vaja3 2d tabela\obj\Debug\net6.0\Vaja3 2d tabela.pdb
+C:\Users\student\Downloads\Vaje\Tabele\Vaja3 2d tabela\obj\Debug\net6.0\Vaja3 2d tabela.genruntimeconfig.cache
+C:\Users\student\Downloads\Vaje\Tabele\Vaja3 2d tabela\obj\Debug\net6.0\ref\Vaja3 2d tabela.dll

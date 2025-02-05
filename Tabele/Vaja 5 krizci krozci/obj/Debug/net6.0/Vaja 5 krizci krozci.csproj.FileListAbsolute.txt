@@ -1,0 +1,15 @@
+C:\Users\student\Downloads\Vaje\Tabele\Vaja 5 krizci krozci\bin\Debug\net6.0\Vaja 5 krizci krozci.exe
+C:\Users\student\Downloads\Vaje\Tabele\Vaja 5 krizci krozci\bin\Debug\net6.0\Vaja 5 krizci krozci.deps.json
+C:\Users\student\Downloads\Vaje\Tabele\Vaja 5 krizci krozci\bin\Debug\net6.0\Vaja 5 krizci krozci.runtimeconfig.json
+C:\Users\student\Downloads\Vaje\Tabele\Vaja 5 krizci krozci\bin\Debug\net6.0\Vaja 5 krizci krozci.dll
+C:\Users\student\Downloads\Vaje\Tabele\Vaja 5 krizci krozci\bin\Debug\net6.0\Vaja 5 krizci krozci.pdb
+C:\Users\student\Downloads\Vaje\Tabele\Vaja 5 krizci krozci\obj\Debug\net6.0\Vaja 5 krizci krozci.csproj.AssemblyReference.cache
+C:\Users\student\Downloads\Vaje\Tabele\Vaja 5 krizci krozci\obj\Debug\net6.0\Vaja 5 krizci krozci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Downloads\Vaje\Tabele\Vaja 5 krizci krozci\obj\Debug\net6.0\Vaja 5 krizci krozci.AssemblyInfoInputs.cache
+C:\Users\student\Downloads\Vaje\Tabele\Vaja 5 krizci krozci\obj\Debug\net6.0\Vaja 5 krizci krozci.AssemblyInfo.cs
+C:\Users\student\Downloads\Vaje\Tabele\Vaja 5 krizci krozci\obj\Debug\net6.0\Vaja 5 krizci krozci.csproj.CoreCompileInputs.cache
+C:\Users\student\Downloads\Vaje\Tabele\Vaja 5 krizci krozci\obj\Debug\net6.0\Vaja 5 krizci krozci.dll
+C:\Users\student\Downloads\Vaje\Tabele\Vaja 5 krizci krozci\obj\Debug\net6.0\refint\Vaja 5 krizci krozci.dll
+C:\Users\student\Downloads\Vaje\Tabele\Vaja 5 krizci krozci\obj\Debug\net6.0\Vaja 5 krizci krozci.pdb
+C:\Users\student\Downloads\Vaje\Tabele\Vaja 5 krizci krozci\obj\Debug\net6.0\Vaja 5 krizci krozci.genruntimeconfig.cache
+C:\Users\student\Downloads\Vaje\Tabele\Vaja 5 krizci krozci\obj\Debug\net6.0\ref\Vaja 5 krizci krozci.dll

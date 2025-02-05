@@ -7,6 +7,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tabele", "Tabele", "{A1ACEB
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vaja3 2d tabela", "Tabele\Vaja3 2d tabela\Vaja3 2d tabela.csproj", "{04E06942-4D12-4057-8250-B42A52449797}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vaja4 2d tabela", "Tabele\Vaja4 2d tabela\Vaja4 2d tabela.csproj", "{8C369B33-FD33-474A-8D20-E2DA339A5AD2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vaja 5 krizci krozci", "Tabele\Vaja 5 krizci krozci\Vaja 5 krizci krozci.csproj", "{F4AEDC9B-280D-4735-805A-73C9540C1AF6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,8 +24,18 @@ Global
 		{04E06942-4D12-4057-8250-B42A52449797}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{04E06942-4D12-4057-8250-B42A52449797}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{04E06942-4D12-4057-8250-B42A52449797}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C369B33-FD33-474A-8D20-E2DA339A5AD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C369B33-FD33-474A-8D20-E2DA339A5AD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C369B33-FD33-474A-8D20-E2DA339A5AD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C369B33-FD33-474A-8D20-E2DA339A5AD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4AEDC9B-280D-4735-805A-73C9540C1AF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4AEDC9B-280D-4735-805A-73C9540C1AF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4AEDC9B-280D-4735-805A-73C9540C1AF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4AEDC9B-280D-4735-805A-73C9540C1AF6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{04E06942-4D12-4057-8250-B42A52449797} = {A1ACEB5C-042E-4418-8BDD-297624EBDE88}
+		{8C369B33-FD33-474A-8D20-E2DA339A5AD2} = {A1ACEB5C-042E-4418-8BDD-297624EBDE88}
+		{F4AEDC9B-280D-4735-805A-73C9540C1AF6} = {A1ACEB5C-042E-4418-8BDD-297624EBDE88}
 	EndGlobalSection
 EndGlobal

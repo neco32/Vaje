@@ -10,17 +10,19 @@
                 polje[i, j] = "1";
             }
         }
+        int stolpec;
+        int vrstica;
         while (true)
         {
             IzpisiPolje(polje);
-            Console.WriteLine("Vnesi vrstico in stolpec (1-3) za igralca X:");
-            int vrstica = int.Parse(Console.ReadLine()) - 1;
-            Console.WriteLine("Vnesi vrstico in stolpec (1-3) za igralca X:");
-            int stolpec = int.Parse(Console.ReadLine()) - 1;
-            if(polje[vrstica, stolpec] != "1")
-            {
-                Console.WriteLine("Polje je že zasedeno!");
-                continue;
+            while(true){
+            Console.WriteLine("Vnesi vrstico (1-3) za igralca X:");
+            vrstica = int.Parse(Console.ReadLine()) - 1;
+            Console.WriteLine("Vnesi stolpec (1-3) za igralca X:");
+            stolpec = int.Parse(Console.ReadLine()) - 1;
+            if(polje[vrstica, stolpec] == "1"){
+                break;
+            }
             }
             polje[vrstica, stolpec] = "X";
             if (PreveriZmago(polje))
@@ -28,19 +30,16 @@
                 Console.WriteLine("Zmagal je igralec X!");
                 break;
             }
-            if (!PreveriPrazno(polje))
-            {
-                Console.WriteLine("Igra je neodločena!");
+            IzpisiPolje(polje);
+            while(true){
+            Console.WriteLine("Vnesi vrstico (1-3) za igralca O:");
+            vrstica = int.Parse(Console.ReadLine()) - 1;
+            Console.WriteLine("Vnesi stolpec (1-3) za igralca O:");
+            stolpec = int.Parse(Console.ReadLine()) - 1;
+            if(polje[vrstica, stolpec] == "1"){
                 break;
             }
-            IzpisiPolje(polje);
-            Console.WriteLine("Vnesi vrstico in stolpec (1-3) za igralca O:");
-            vrstica = int.Parse(Console.ReadLine()) - 1;
-            stolpec = int.Parse(Console.ReadLine()) - 1;
-            if(polje[vrstica, stolpec] != "1")
-            {
-                Console.WriteLine("Polje je že zasedeno!");
-                continue;
+            Console.WriteLine("To polje je ze zasedeno");
             }
             polje[vrstica, stolpec] = "O";
             if (PreveriZmago(polje))

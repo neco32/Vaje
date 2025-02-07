@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EKFuG3bn+8k=",
+  "dgSpecHash": "o+eZwcKr+K1rYu6a9pmyDs9zUU9Dbazar1MWJZmt7zkIBB6iZeJn32Y52q9DwZ94Y5taCpeVJazx8kB8ItX9jA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\Downloads\\Vaje\\Tabele\\Vaja3 2d tabela\\Vaja3 2d tabela.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
-    "C:\\Users\\User\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
-    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
-    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.36\\microsoft.netcore.app.host.win-x64.6.0.36.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\student\\Downloads\\Vaje\\Tabele\\Vaja3 2d tabela\\Vaja3 2d tabela.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

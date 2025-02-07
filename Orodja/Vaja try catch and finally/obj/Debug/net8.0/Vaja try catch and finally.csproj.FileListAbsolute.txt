@@ -1,0 +1,15 @@
+C:\Users\student\Downloads\Vaje\Orodja\Vaja try catch and finally\bin\Debug\net8.0\Vaja try catch and finally.exe
+C:\Users\student\Downloads\Vaje\Orodja\Vaja try catch and finally\bin\Debug\net8.0\Vaja try catch and finally.deps.json
+C:\Users\student\Downloads\Vaje\Orodja\Vaja try catch and finally\bin\Debug\net8.0\Vaja try catch and finally.runtimeconfig.json
+C:\Users\student\Downloads\Vaje\Orodja\Vaja try catch and finally\bin\Debug\net8.0\Vaja try catch and finally.dll
+C:\Users\student\Downloads\Vaje\Orodja\Vaja try catch and finally\bin\Debug\net8.0\Vaja try catch and finally.pdb
+C:\Users\student\Downloads\Vaje\Orodja\Vaja try catch and finally\obj\Debug\net8.0\Vaja try catch and finally.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Downloads\Vaje\Orodja\Vaja try catch and finally\obj\Debug\net8.0\Vaja try catch and finally.AssemblyInfoInputs.cache
+C:\Users\student\Downloads\Vaje\Orodja\Vaja try catch and finally\obj\Debug\net8.0\Vaja try catch and finally.AssemblyInfo.cs
+C:\Users\student\Downloads\Vaje\Orodja\Vaja try catch and finally\obj\Debug\net8.0\Vaja try catch and finally.csproj.CoreCompileInputs.cache
+C:\Users\student\Downloads\Vaje\Orodja\Vaja try catch and finally\obj\Debug\net8.0\Vaja try catch and finally.sourcelink.json
+C:\Users\student\Downloads\Vaje\Orodja\Vaja try catch and finally\obj\Debug\net8.0\Vaja try catch and finally.dll
+C:\Users\student\Downloads\Vaje\Orodja\Vaja try catch and finally\obj\Debug\net8.0\refint\Vaja try catch and finally.dll
+C:\Users\student\Downloads\Vaje\Orodja\Vaja try catch and finally\obj\Debug\net8.0\Vaja try catch and finally.pdb
+C:\Users\student\Downloads\Vaje\Orodja\Vaja try catch and finally\obj\Debug\net8.0\Vaja try catch and finally.genruntimeconfig.cache
+C:\Users\student\Downloads\Vaje\Orodja\Vaja try catch and finally\obj\Debug\net8.0\ref\Vaja try catch and finally.dll

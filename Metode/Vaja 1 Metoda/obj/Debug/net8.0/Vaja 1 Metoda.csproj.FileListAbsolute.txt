@@ -1,0 +1,15 @@
+C:\Users\student\Downloads\Vaje\Metode\Vaja 1 Metoda\bin\Debug\net8.0\Vaja 1 Metoda.exe
+C:\Users\student\Downloads\Vaje\Metode\Vaja 1 Metoda\bin\Debug\net8.0\Vaja 1 Metoda.deps.json
+C:\Users\student\Downloads\Vaje\Metode\Vaja 1 Metoda\bin\Debug\net8.0\Vaja 1 Metoda.runtimeconfig.json
+C:\Users\student\Downloads\Vaje\Metode\Vaja 1 Metoda\bin\Debug\net8.0\Vaja 1 Metoda.dll
+C:\Users\student\Downloads\Vaje\Metode\Vaja 1 Metoda\bin\Debug\net8.0\Vaja 1 Metoda.pdb
+C:\Users\student\Downloads\Vaje\Metode\Vaja 1 Metoda\obj\Debug\net8.0\Vaja 1 Metoda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Downloads\Vaje\Metode\Vaja 1 Metoda\obj\Debug\net8.0\Vaja 1 Metoda.AssemblyInfoInputs.cache
+C:\Users\student\Downloads\Vaje\Metode\Vaja 1 Metoda\obj\Debug\net8.0\Vaja 1 Metoda.AssemblyInfo.cs
+C:\Users\student\Downloads\Vaje\Metode\Vaja 1 Metoda\obj\Debug\net8.0\Vaja 1 Metoda.csproj.CoreCompileInputs.cache
+C:\Users\student\Downloads\Vaje\Metode\Vaja 1 Metoda\obj\Debug\net8.0\Vaja 1 Metoda.sourcelink.json
+C:\Users\student\Downloads\Vaje\Metode\Vaja 1 Metoda\obj\Debug\net8.0\Vaja 1 Metoda.dll
+C:\Users\student\Downloads\Vaje\Metode\Vaja 1 Metoda\obj\Debug\net8.0\refint\Vaja 1 Metoda.dll
+C:\Users\student\Downloads\Vaje\Metode\Vaja 1 Metoda\obj\Debug\net8.0\Vaja 1 Metoda.pdb
+C:\Users\student\Downloads\Vaje\Metode\Vaja 1 Metoda\obj\Debug\net8.0\Vaja 1 Metoda.genruntimeconfig.cache
+C:\Users\student\Downloads\Vaje\Metode\Vaja 1 Metoda\obj\Debug\net8.0\ref\Vaja 1 Metoda.dll

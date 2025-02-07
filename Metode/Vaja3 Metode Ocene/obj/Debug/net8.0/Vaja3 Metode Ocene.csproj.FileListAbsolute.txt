@@ -1,0 +1,15 @@
+C:\Users\student\Downloads\Vaje\Metode\Vaja3 Metode Ocene\bin\Debug\net8.0\Vaja3 Metode Ocene.exe
+C:\Users\student\Downloads\Vaje\Metode\Vaja3 Metode Ocene\bin\Debug\net8.0\Vaja3 Metode Ocene.deps.json
+C:\Users\student\Downloads\Vaje\Metode\Vaja3 Metode Ocene\bin\Debug\net8.0\Vaja3 Metode Ocene.runtimeconfig.json
+C:\Users\student\Downloads\Vaje\Metode\Vaja3 Metode Ocene\bin\Debug\net8.0\Vaja3 Metode Ocene.dll
+C:\Users\student\Downloads\Vaje\Metode\Vaja3 Metode Ocene\bin\Debug\net8.0\Vaja3 Metode Ocene.pdb
+C:\Users\student\Downloads\Vaje\Metode\Vaja3 Metode Ocene\obj\Debug\net8.0\Vaja3 Metode Ocene.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Downloads\Vaje\Metode\Vaja3 Metode Ocene\obj\Debug\net8.0\Vaja3 Metode Ocene.AssemblyInfoInputs.cache
+C:\Users\student\Downloads\Vaje\Metode\Vaja3 Metode Ocene\obj\Debug\net8.0\Vaja3 Metode Ocene.AssemblyInfo.cs
+C:\Users\student\Downloads\Vaje\Metode\Vaja3 Metode Ocene\obj\Debug\net8.0\Vaja3 Metode Ocene.csproj.CoreCompileInputs.cache
+C:\Users\student\Downloads\Vaje\Metode\Vaja3 Metode Ocene\obj\Debug\net8.0\Vaja3 Metode Ocene.sourcelink.json
+C:\Users\student\Downloads\Vaje\Metode\Vaja3 Metode Ocene\obj\Debug\net8.0\Vaja3 Metode Ocene.dll
+C:\Users\student\Downloads\Vaje\Metode\Vaja3 Metode Ocene\obj\Debug\net8.0\refint\Vaja3 Metode Ocene.dll
+C:\Users\student\Downloads\Vaje\Metode\Vaja3 Metode Ocene\obj\Debug\net8.0\Vaja3 Metode Ocene.pdb
+C:\Users\student\Downloads\Vaje\Metode\Vaja3 Metode Ocene\obj\Debug\net8.0\Vaja3 Metode Ocene.genruntimeconfig.cache
+C:\Users\student\Downloads\Vaje\Metode\Vaja3 Metode Ocene\obj\Debug\net8.0\ref\Vaja3 Metode Ocene.dll

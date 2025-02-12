@@ -1,0 +1,15 @@
+C:\Users\student\Downloads\Vaja\if stavki\Vaja1\bin\Debug\net6.0\Vaja1.exe
+C:\Users\student\Downloads\Vaja\if stavki\Vaja1\bin\Debug\net6.0\Vaja1.deps.json
+C:\Users\student\Downloads\Vaja\if stavki\Vaja1\bin\Debug\net6.0\Vaja1.runtimeconfig.json
+C:\Users\student\Downloads\Vaja\if stavki\Vaja1\bin\Debug\net6.0\Vaja1.dll
+C:\Users\student\Downloads\Vaja\if stavki\Vaja1\bin\Debug\net6.0\Vaja1.pdb
+C:\Users\student\Downloads\Vaja\if stavki\Vaja1\obj\Debug\net6.0\Vaja1.csproj.AssemblyReference.cache
+C:\Users\student\Downloads\Vaja\if stavki\Vaja1\obj\Debug\net6.0\Vaja1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Downloads\Vaja\if stavki\Vaja1\obj\Debug\net6.0\Vaja1.AssemblyInfoInputs.cache
+C:\Users\student\Downloads\Vaja\if stavki\Vaja1\obj\Debug\net6.0\Vaja1.AssemblyInfo.cs
+C:\Users\student\Downloads\Vaja\if stavki\Vaja1\obj\Debug\net6.0\Vaja1.csproj.CoreCompileInputs.cache
+C:\Users\student\Downloads\Vaja\if stavki\Vaja1\obj\Debug\net6.0\Vaja1.dll
+C:\Users\student\Downloads\Vaja\if stavki\Vaja1\obj\Debug\net6.0\refint\Vaja1.dll
+C:\Users\student\Downloads\Vaja\if stavki\Vaja1\obj\Debug\net6.0\Vaja1.pdb
+C:\Users\student\Downloads\Vaja\if stavki\Vaja1\obj\Debug\net6.0\Vaja1.genruntimeconfig.cache
+C:\Users\student\Downloads\Vaja\if stavki\Vaja1\obj\Debug\net6.0\ref\Vaja1.dll

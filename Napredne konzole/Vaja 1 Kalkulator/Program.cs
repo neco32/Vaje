@@ -28,6 +28,7 @@
                 break;
             default:
                 Console.WriteLine("Napaka: Neznana operacija");
+                Main(args);
                 break;
         }
     }

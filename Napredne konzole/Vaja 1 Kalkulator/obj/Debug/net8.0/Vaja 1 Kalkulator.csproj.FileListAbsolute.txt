@@ -1,0 +1,15 @@
+C:\Users\student\Downloads\Vaje\Napredne konzole\Vaja 1 Kalkulator\bin\Debug\net8.0\Vaja 1 Kalkulator.exe
+C:\Users\student\Downloads\Vaje\Napredne konzole\Vaja 1 Kalkulator\bin\Debug\net8.0\Vaja 1 Kalkulator.deps.json
+C:\Users\student\Downloads\Vaje\Napredne konzole\Vaja 1 Kalkulator\bin\Debug\net8.0\Vaja 1 Kalkulator.runtimeconfig.json
+C:\Users\student\Downloads\Vaje\Napredne konzole\Vaja 1 Kalkulator\bin\Debug\net8.0\Vaja 1 Kalkulator.dll
+C:\Users\student\Downloads\Vaje\Napredne konzole\Vaja 1 Kalkulator\bin\Debug\net8.0\Vaja 1 Kalkulator.pdb
+C:\Users\student\Downloads\Vaje\Napredne konzole\Vaja 1 Kalkulator\obj\Debug\net8.0\Vaja 1 Kalkulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Downloads\Vaje\Napredne konzole\Vaja 1 Kalkulator\obj\Debug\net8.0\Vaja 1 Kalkulator.AssemblyInfoInputs.cache
+C:\Users\student\Downloads\Vaje\Napredne konzole\Vaja 1 Kalkulator\obj\Debug\net8.0\Vaja 1 Kalkulator.AssemblyInfo.cs
+C:\Users\student\Downloads\Vaje\Napredne konzole\Vaja 1 Kalkulator\obj\Debug\net8.0\Vaja 1 Kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\student\Downloads\Vaje\Napredne konzole\Vaja 1 Kalkulator\obj\Debug\net8.0\Vaja 1 Kalkulator.sourcelink.json
+C:\Users\student\Downloads\Vaje\Napredne konzole\Vaja 1 Kalkulator\obj\Debug\net8.0\Vaja 1 Kalkulator.dll
+C:\Users\student\Downloads\Vaje\Napredne konzole\Vaja 1 Kalkulator\obj\Debug\net8.0\refint\Vaja 1 Kalkulator.dll
+C:\Users\student\Downloads\Vaje\Napredne konzole\Vaja 1 Kalkulator\obj\Debug\net8.0\Vaja 1 Kalkulator.pdb
+C:\Users\student\Downloads\Vaje\Napredne konzole\Vaja 1 Kalkulator\obj\Debug\net8.0\Vaja 1 Kalkulator.genruntimeconfig.cache
+C:\Users\student\Downloads\Vaje\Napredne konzole\Vaja 1 Kalkulator\obj\Debug\net8.0\ref\Vaja 1 Kalkulator.dll

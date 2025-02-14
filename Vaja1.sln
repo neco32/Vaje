@@ -53,6 +53,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vaja 3 (for)", "Zanke\Vaja 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vaja 4 (zanka v zanki)", "Zanke\Vaja 4 (zanka v zanki)\Vaja 4 (zanka v zanki).csproj", "{ACCC9A3B-173A-4ACC-BEEE-D63244C34EB4}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Napredne konzole", "Napredne konzole", "{10088056-3601-4F2E-99DE-AD5968DAED32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vaja 1 Kalkulator", "Napredne konzole\Vaja 1 Kalkulator\Vaja 1 Kalkulator.csproj", "{E9EDA0D7-7E49-412F-B5A1-7B594FC82B00}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -142,6 +146,10 @@ Global
 		{ACCC9A3B-173A-4ACC-BEEE-D63244C34EB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ACCC9A3B-173A-4ACC-BEEE-D63244C34EB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ACCC9A3B-173A-4ACC-BEEE-D63244C34EB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9EDA0D7-7E49-412F-B5A1-7B594FC82B00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9EDA0D7-7E49-412F-B5A1-7B594FC82B00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9EDA0D7-7E49-412F-B5A1-7B594FC82B00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9EDA0D7-7E49-412F-B5A1-7B594FC82B00}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{CAAFCF86-718B-4D5E-82A8-8A7ECFF30C23} = {27FFC95A-B59C-485C-BEF9-E1C5D0B7B09B}
@@ -164,5 +172,6 @@ Global
 		{7502A861-966E-4187-B7DD-C3BC64BE36AF} = {FE833334-AFB9-45EE-8BEA-112AF32D65D6}
 		{8362FF02-9248-415E-8BAD-19C994437A18} = {FE833334-AFB9-45EE-8BEA-112AF32D65D6}
 		{ACCC9A3B-173A-4ACC-BEEE-D63244C34EB4} = {FE833334-AFB9-45EE-8BEA-112AF32D65D6}
+		{E9EDA0D7-7E49-412F-B5A1-7B594FC82B00} = {10088056-3601-4F2E-99DE-AD5968DAED32}
 	EndGlobalSection
 EndGlobal

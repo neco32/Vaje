@@ -1,0 +1,15 @@
+C:\Users\student\Downloads\Vaje\Objekt\Vaja2 Clan\bin\Debug\net6.0\Vaja2 Clan.exe
+C:\Users\student\Downloads\Vaje\Objekt\Vaja2 Clan\bin\Debug\net6.0\Vaja2 Clan.deps.json
+C:\Users\student\Downloads\Vaje\Objekt\Vaja2 Clan\bin\Debug\net6.0\Vaja2 Clan.runtimeconfig.json
+C:\Users\student\Downloads\Vaje\Objekt\Vaja2 Clan\bin\Debug\net6.0\Vaja2 Clan.dll
+C:\Users\student\Downloads\Vaje\Objekt\Vaja2 Clan\bin\Debug\net6.0\Vaja2 Clan.pdb
+C:\Users\student\Downloads\Vaje\Objekt\Vaja2 Clan\obj\Debug\net6.0\Vaja2 Clan.csproj.AssemblyReference.cache
+C:\Users\student\Downloads\Vaje\Objekt\Vaja2 Clan\obj\Debug\net6.0\Vaja2 Clan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Downloads\Vaje\Objekt\Vaja2 Clan\obj\Debug\net6.0\Vaja2 Clan.AssemblyInfoInputs.cache
+C:\Users\student\Downloads\Vaje\Objekt\Vaja2 Clan\obj\Debug\net6.0\Vaja2 Clan.AssemblyInfo.cs
+C:\Users\student\Downloads\Vaje\Objekt\Vaja2 Clan\obj\Debug\net6.0\Vaja2 Clan.csproj.CoreCompileInputs.cache
+C:\Users\student\Downloads\Vaje\Objekt\Vaja2 Clan\obj\Debug\net6.0\Vaja2 Clan.dll
+C:\Users\student\Downloads\Vaje\Objekt\Vaja2 Clan\obj\Debug\net6.0\refint\Vaja2 Clan.dll
+C:\Users\student\Downloads\Vaje\Objekt\Vaja2 Clan\obj\Debug\net6.0\Vaja2 Clan.pdb
+C:\Users\student\Downloads\Vaje\Objekt\Vaja2 Clan\obj\Debug\net6.0\Vaja2 Clan.genruntimeconfig.cache
+C:\Users\student\Downloads\Vaje\Objekt\Vaja2 Clan\obj\Debug\net6.0\ref\Vaja2 Clan.dll

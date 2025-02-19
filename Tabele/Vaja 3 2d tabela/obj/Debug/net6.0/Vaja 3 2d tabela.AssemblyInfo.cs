@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Vaja 3 2d tabela")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+05f5abd39dac957827cbe9a7fb2a1b2c097dfba0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Vaja 3 2d tabela")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Vaja 3 2d tabela")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

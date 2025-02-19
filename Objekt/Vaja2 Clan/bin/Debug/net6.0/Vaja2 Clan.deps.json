@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Vaja2 Clan/1.0.0": {
+        "runtime": {
+          "Vaja2 Clan.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Vaja2 Clan/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

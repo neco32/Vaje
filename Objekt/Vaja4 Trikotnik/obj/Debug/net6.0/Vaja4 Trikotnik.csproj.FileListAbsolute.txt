@@ -1,0 +1,15 @@
+C:\Users\student\Downloads\Vaje\Objekt\Vaja4 Trikotnik\bin\Debug\net6.0\Vaja4 Trikotnik.exe
+C:\Users\student\Downloads\Vaje\Objekt\Vaja4 Trikotnik\bin\Debug\net6.0\Vaja4 Trikotnik.deps.json
+C:\Users\student\Downloads\Vaje\Objekt\Vaja4 Trikotnik\bin\Debug\net6.0\Vaja4 Trikotnik.runtimeconfig.json
+C:\Users\student\Downloads\Vaje\Objekt\Vaja4 Trikotnik\bin\Debug\net6.0\Vaja4 Trikotnik.dll
+C:\Users\student\Downloads\Vaje\Objekt\Vaja4 Trikotnik\bin\Debug\net6.0\Vaja4 Trikotnik.pdb
+C:\Users\student\Downloads\Vaje\Objekt\Vaja4 Trikotnik\obj\Debug\net6.0\Vaja4 Trikotnik.csproj.AssemblyReference.cache
+C:\Users\student\Downloads\Vaje\Objekt\Vaja4 Trikotnik\obj\Debug\net6.0\Vaja4 Trikotnik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Downloads\Vaje\Objekt\Vaja4 Trikotnik\obj\Debug\net6.0\Vaja4 Trikotnik.AssemblyInfoInputs.cache
+C:\Users\student\Downloads\Vaje\Objekt\Vaja4 Trikotnik\obj\Debug\net6.0\Vaja4 Trikotnik.AssemblyInfo.cs
+C:\Users\student\Downloads\Vaje\Objekt\Vaja4 Trikotnik\obj\Debug\net6.0\Vaja4 Trikotnik.csproj.CoreCompileInputs.cache
+C:\Users\student\Downloads\Vaje\Objekt\Vaja4 Trikotnik\obj\Debug\net6.0\Vaja4 Trikotnik.dll
+C:\Users\student\Downloads\Vaje\Objekt\Vaja4 Trikotnik\obj\Debug\net6.0\refint\Vaja4 Trikotnik.dll
+C:\Users\student\Downloads\Vaje\Objekt\Vaja4 Trikotnik\obj\Debug\net6.0\Vaja4 Trikotnik.pdb
+C:\Users\student\Downloads\Vaje\Objekt\Vaja4 Trikotnik\obj\Debug\net6.0\Vaja4 Trikotnik.genruntimeconfig.cache
+C:\Users\student\Downloads\Vaje\Objekt\Vaja4 Trikotnik\obj\Debug\net6.0\ref\Vaja4 Trikotnik.dll

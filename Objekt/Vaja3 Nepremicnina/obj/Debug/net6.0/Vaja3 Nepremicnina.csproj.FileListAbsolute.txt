@@ -1,0 +1,15 @@
+C:\Users\student\Downloads\Vaje\Objekt\Vaja3 Nepremicnina\bin\Debug\net6.0\Vaja3 Nepremicnina.exe
+C:\Users\student\Downloads\Vaje\Objekt\Vaja3 Nepremicnina\bin\Debug\net6.0\Vaja3 Nepremicnina.deps.json
+C:\Users\student\Downloads\Vaje\Objekt\Vaja3 Nepremicnina\bin\Debug\net6.0\Vaja3 Nepremicnina.runtimeconfig.json
+C:\Users\student\Downloads\Vaje\Objekt\Vaja3 Nepremicnina\bin\Debug\net6.0\Vaja3 Nepremicnina.dll
+C:\Users\student\Downloads\Vaje\Objekt\Vaja3 Nepremicnina\bin\Debug\net6.0\Vaja3 Nepremicnina.pdb
+C:\Users\student\Downloads\Vaje\Objekt\Vaja3 Nepremicnina\obj\Debug\net6.0\Vaja3 Nepremicnina.csproj.AssemblyReference.cache
+C:\Users\student\Downloads\Vaje\Objekt\Vaja3 Nepremicnina\obj\Debug\net6.0\Vaja3 Nepremicnina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Downloads\Vaje\Objekt\Vaja3 Nepremicnina\obj\Debug\net6.0\Vaja3 Nepremicnina.AssemblyInfoInputs.cache
+C:\Users\student\Downloads\Vaje\Objekt\Vaja3 Nepremicnina\obj\Debug\net6.0\Vaja3 Nepremicnina.AssemblyInfo.cs
+C:\Users\student\Downloads\Vaje\Objekt\Vaja3 Nepremicnina\obj\Debug\net6.0\Vaja3 Nepremicnina.csproj.CoreCompileInputs.cache
+C:\Users\student\Downloads\Vaje\Objekt\Vaja3 Nepremicnina\obj\Debug\net6.0\Vaja3 Nepremicnina.dll
+C:\Users\student\Downloads\Vaje\Objekt\Vaja3 Nepremicnina\obj\Debug\net6.0\refint\Vaja3 Nepremicnina.dll
+C:\Users\student\Downloads\Vaje\Objekt\Vaja3 Nepremicnina\obj\Debug\net6.0\Vaja3 Nepremicnina.pdb
+C:\Users\student\Downloads\Vaje\Objekt\Vaja3 Nepremicnina\obj\Debug\net6.0\Vaja3 Nepremicnina.genruntimeconfig.cache
+C:\Users\student\Downloads\Vaje\Objekt\Vaja3 Nepremicnina\obj\Debug\net6.0\ref\Vaja3 Nepremicnina.dll

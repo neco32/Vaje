@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Vaja try catch")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+97782d94ced981b41b628895f971b2e5aca79c87")]
 [assembly: System.Reflection.AssemblyProductAttribute("Vaja try catch")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Vaja try catch")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

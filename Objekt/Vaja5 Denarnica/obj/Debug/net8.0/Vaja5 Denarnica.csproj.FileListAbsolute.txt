@@ -1,0 +1,15 @@
+C:\Users\student\Downloads\Vaje\Objekt\Vaja5 Denarnica\bin\Debug\net8.0\Vaja5 Denarnica.exe
+C:\Users\student\Downloads\Vaje\Objekt\Vaja5 Denarnica\bin\Debug\net8.0\Vaja5 Denarnica.deps.json
+C:\Users\student\Downloads\Vaje\Objekt\Vaja5 Denarnica\bin\Debug\net8.0\Vaja5 Denarnica.runtimeconfig.json
+C:\Users\student\Downloads\Vaje\Objekt\Vaja5 Denarnica\bin\Debug\net8.0\Vaja5 Denarnica.dll
+C:\Users\student\Downloads\Vaje\Objekt\Vaja5 Denarnica\bin\Debug\net8.0\Vaja5 Denarnica.pdb
+C:\Users\student\Downloads\Vaje\Objekt\Vaja5 Denarnica\obj\Debug\net8.0\Vaja5 Denarnica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Downloads\Vaje\Objekt\Vaja5 Denarnica\obj\Debug\net8.0\Vaja5 Denarnica.AssemblyInfoInputs.cache
+C:\Users\student\Downloads\Vaje\Objekt\Vaja5 Denarnica\obj\Debug\net8.0\Vaja5 Denarnica.AssemblyInfo.cs
+C:\Users\student\Downloads\Vaje\Objekt\Vaja5 Denarnica\obj\Debug\net8.0\Vaja5 Denarnica.csproj.CoreCompileInputs.cache
+C:\Users\student\Downloads\Vaje\Objekt\Vaja5 Denarnica\obj\Debug\net8.0\Vaja5 Denarnica.sourcelink.json
+C:\Users\student\Downloads\Vaje\Objekt\Vaja5 Denarnica\obj\Debug\net8.0\Vaja5 Denarnica.dll
+C:\Users\student\Downloads\Vaje\Objekt\Vaja5 Denarnica\obj\Debug\net8.0\refint\Vaja5 Denarnica.dll
+C:\Users\student\Downloads\Vaje\Objekt\Vaja5 Denarnica\obj\Debug\net8.0\Vaja5 Denarnica.pdb
+C:\Users\student\Downloads\Vaje\Objekt\Vaja5 Denarnica\obj\Debug\net8.0\Vaja5 Denarnica.genruntimeconfig.cache
+C:\Users\student\Downloads\Vaje\Objekt\Vaja5 Denarnica\obj\Debug\net8.0\ref\Vaja5 Denarnica.dll

@@ -1,0 +1,15 @@
+C:\Users\student\Downloads\Vaje\Objekt\Vaja8 Avto\bin\Debug\net8.0\Vaja8 Avto.exe
+C:\Users\student\Downloads\Vaje\Objekt\Vaja8 Avto\bin\Debug\net8.0\Vaja8 Avto.deps.json
+C:\Users\student\Downloads\Vaje\Objekt\Vaja8 Avto\bin\Debug\net8.0\Vaja8 Avto.runtimeconfig.json
+C:\Users\student\Downloads\Vaje\Objekt\Vaja8 Avto\bin\Debug\net8.0\Vaja8 Avto.dll
+C:\Users\student\Downloads\Vaje\Objekt\Vaja8 Avto\bin\Debug\net8.0\Vaja8 Avto.pdb
+C:\Users\student\Downloads\Vaje\Objekt\Vaja8 Avto\obj\Debug\net8.0\Vaja8 Avto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Downloads\Vaje\Objekt\Vaja8 Avto\obj\Debug\net8.0\Vaja8 Avto.AssemblyInfoInputs.cache
+C:\Users\student\Downloads\Vaje\Objekt\Vaja8 Avto\obj\Debug\net8.0\Vaja8 Avto.AssemblyInfo.cs
+C:\Users\student\Downloads\Vaje\Objekt\Vaja8 Avto\obj\Debug\net8.0\Vaja8 Avto.csproj.CoreCompileInputs.cache
+C:\Users\student\Downloads\Vaje\Objekt\Vaja8 Avto\obj\Debug\net8.0\Vaja8 Avto.sourcelink.json
+C:\Users\student\Downloads\Vaje\Objekt\Vaja8 Avto\obj\Debug\net8.0\Vaja8 Avto.dll
+C:\Users\student\Downloads\Vaje\Objekt\Vaja8 Avto\obj\Debug\net8.0\refint\Vaja8 Avto.dll
+C:\Users\student\Downloads\Vaje\Objekt\Vaja8 Avto\obj\Debug\net8.0\Vaja8 Avto.pdb
+C:\Users\student\Downloads\Vaje\Objekt\Vaja8 Avto\obj\Debug\net8.0\Vaja8 Avto.genruntimeconfig.cache
+C:\Users\student\Downloads\Vaje\Objekt\Vaja8 Avto\obj\Debug\net8.0\ref\Vaja8 Avto.dll
